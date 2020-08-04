@@ -21,10 +21,6 @@ def assign_rooms(attendees)
 end
 
 
-def printer(badges_and_room_assignmentns)
-  badges_and_room_assignmentns = []
-  puts badges
-  puts rooms_assignments.push("Hello, #{attendees}! You'll be assigned to room #{index+1}!")
-  end
-  badges_and_room_assignmentns
+def printer(attendees)
+
 end
